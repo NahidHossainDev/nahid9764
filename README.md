@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Self employed
-- 🌱 I’m currently learning ... React.js, Node.js.
-- 🥅 2021 Goals: Learn React, React Native, Angular, Node
-- 📫 How to reach me: ... nahidhossain9764@hotmail.com
+- 🔭 I’m currently working on ... Zaynax Group Ltd.
+- 🌱 I’m currently learning ... Next.js, React.js, Node.js.
+- 🥅 2021 Goals: Learn React, React Native, Node
+- 📫 How to reach me: ... nahidhossain9764@gmail.com
 
 ### Contact me
 ---
