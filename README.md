@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on ... Zaynax Group Ltd.
 - 🌱 I’m currently learning ... Next.js, React.js, Node.js.
-- 🥅 2021 Goals: Learn React, React Native, Node
 - 📫 How to reach me: ... nahidhossain9764@gmail.com
 
 ### Contact me
