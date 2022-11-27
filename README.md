@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Zaynax Group Ltd.
-- 🌱 I’m currently learning ... Next.js, React.js, Node.js.
+- 🌱 I’m currently learning ... Node.js and Jest testing library.
 - 📫 How to reach me: ... nahidhossain9764@gmail.com
 
 ### Contact me
